@@ -1,0 +1,9 @@
+create the repository in github
+go to git bash
+clone the repository by using 
+
+git clone https://www.github.com/drwilfington/BasicBill
+ 
+where "drwilfington" is the username and "BasicBill" is the repository name in github
+
+then cd to the new repository and then you can add and commit and push etc...
